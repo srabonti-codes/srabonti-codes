@@ -41,13 +41,18 @@
 
 ## 📊 GitHub Metrics
 
+## 📊 GitHub Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srabonti03&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonti03&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=srabonti03&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabonti03&layout=compact&theme=dark" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonti03&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabonti03&layout=compact&theme=dark" />
 </p>
 
 ---
