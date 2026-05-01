@@ -1,4 +1,4 @@
-# Srabonti Talukdar  
+# Srabonti Suchi Talukdar  
 **Full-Stack Web Developer | MERN Stack | Building Scalable, User-Focused Web Applications**
 
 📍Bangladesh 🇧🇩
