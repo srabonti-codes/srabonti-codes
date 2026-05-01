@@ -1,85 +1,73 @@
-# Srabonti 👑  
-**Computer Science and Engineering (CSE) Student | Full-Stack Web Developer | Creative Technologist**  
-Based in Bangladesh 🇧🇩
+# Srabonti Talukdar  
+**Full-Stack Web Developer (MERN) | CSE Student | UI-Focused Engineer**
+
+Bangladesh 🇧🇩  
+
+---
+
+## 🚀 Snapshot
+
+- 💻 Experience building multiple full-stack MERN applications
+- ⚙️ Focused on scalable backend architecture & secure APIs
+- 🎯 Strong frontend foundation with React + Tailwind
+- 🔐 Implemented JWT-based authentication systems
+- 📦 Working with REST APIs, MongoDB, and modern deployment workflows
+
+---
+
+## 🧠 Core Expertise
+
+**Frontend Engineering**
+- React.js (component-driven architecture)
+- Tailwind CSS (responsive UI systems)
+- JavaScript (ES6+)
+
+**Backend Engineering**
+- Node.js + Express.js
+- RESTful API design
+- Authentication (JWT, protected routes)
+
+**Database**
+- MongoDB (schema design, optimization)
+- Prisma (ORM for MongoDB, type-safe data modeling and queries)
+- MongoDB Atlas
+
+**Tools & Workflow**
+- Git & GitHub (version control)
+- Postman (API testing)
+- Docker (containerization basics)
+
+---
+
+## 📊 GitHub Metrics
 
 <p align="center">
-  <a href="https://github.com/srabonti03">
-    <img src="https://github-profile-trophy.vercel.app/?username=srabonti03&theme=onedark&no-frame=true&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=srabonti03&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonti03&theme=dark" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabonti03&layout=compact&theme=dark" height="160"/>
 </p>
 
 ---
 
-### About Me
+## 📈 Development Focus (2026)
 
-I am a dedicated **web developer** with a strong foundation in both **frontend** and **backend** development. Currently, I am focused on building scalable, secure, and user-friendly web applications. I have a deep appreciation for both the **technical aspects** of development and the **user experience**.
-
-- 🧠 **BSc in CSE** with expertise in software development, algorithms, and data structures.
-- 💻 Currently working on **Whispered Words**, a full-stack **online bookstore** project.
-- 🔒 Passionate about **secure coding** and building **robust authentication systems**.
-- 🌱 Actively learning and exploring **Next.js**, **Server-side Rendering (SSR)**, and improving my understanding of **API security**.
-
----
-
-### Technical Skills
-
-- **Frontend**:  
-  - HTML5, CSS3, JavaScript, ReactJS, Tailwind CSS
-- **Backend**:  
-  - Node.js, Express.js, MongoDB, RESTful APIs, JWT Authentication
-- **Version Control**:  
-  - Git, GitHub
-- **Languages**:  
-  - JavaScript, C, SQL
-- **Tools**:  
-  - Docker, Postman, MongoDB Atlas
+- Scalable backend architecture design
+- Advanced Next.js (SSR + performance optimization)
+- System design fundamentals
+- Secure authentication & API hardening
+- Production deployment workflows (Docker + cloud)
 
 ---
 
-### GitHub Stats
+## 🎯 Positioning Statement
 
-<p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=srabonti03&show_icons=true&theme=dark&locale=en" alt="GitHub Stats Dark" style="height: 160px; object-fit: contain;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonti03&theme=dark" alt="GitHub Streak Dark" style="height: 160px; object-fit: contain;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srabonti03&layout=compact&theme=dark&locale=en" alt="Top Languages Dark" style="height: 160px; width: 100%; object-fit: contain;"/>
-</p>
+Full-stack developer focused on building clean, scalable, and production-ready web applications with strong attention to UI/UX, security, and system design fundamentals.
 
 ---
 
-### Currently Learning
+## 📬 Contact
 
-- **Next.js 14** & **Server-side Rendering (SSR)** for building scalable full-stack applications.
-- **Building Secure REST APIs** with **JWT** authentication and **authorization** strategies.
-- Enhancing knowledge of **database optimization** and improving MongoDB query performance.
-- Focusing on **Cloud deployment** and containerization with **Docker**.
-
----
-
-### Connect with Me
-
-<p align="left">
-  <a href="https://facebook.com/srabonti.talukdar03" target="_blank"><img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook"/></a>
-  <a href="https://instagram.com/srabonti_talukdar03" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://wa.me/8801724394274" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/></a>
-</p>
-
----
-
-### My Philosophy
-
-> *“Good code is like a well-written story—elegant, efficient, and impactful. I aim to build applications that deliver both performance and seamless user experience.”*
-
----
-
-### 2025 Goals
-
-- **Launch Whispered Words** with full functionality.
-- **Complete Personal Portfolio** and expand it with more projects and professional accomplishments.
-- **Secure a remote frontend developer position** focused on modern web technologies.
-- **Contribute to open-source projects**, collaborate with other developers, and give back to the community.
-- **Improve my knowledge** in software architecture, API design, and deployment strategies.
-
----
-
-🖤 *Every line of code is a step towards my goal.*  
-*Let’s build something impactful.*  
+Email: srabonti.st03@gmail.com
