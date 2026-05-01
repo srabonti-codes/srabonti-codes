@@ -1,7 +1,7 @@
 # Srabonti Talukdar  
-**Full-Stack Web Developer (MERN) | CSE Student | UI-Focused Engineer**
+**Full-Stack Web Developer | MERN Stack | Building Scalable, User-Focused Web Applications**
 
-Bangladesh 🇧🇩  
+Bangladesh 🇧🇩
 
 ---
 
