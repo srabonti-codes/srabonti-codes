@@ -30,9 +30,7 @@ Full-stack developer focused on building scalable, secure, and production-ready 
 
 ## 📊 GitHub Activity  
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=srabonti03&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=srabonti03&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=srabonti03&theme=tokyonight&hide_border=true)
 
 ---
 
