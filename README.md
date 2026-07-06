@@ -28,14 +28,6 @@ Full-stack developer focused on building scalable, secure, and production-ready 
 
 ---
 
-## 📊 GitHub Activity  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=srabonti03&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📬 Contact  
 
 - Email: [srabonti.st03@gmail.com](mailto:srabonti.st03@gmail.com)  
