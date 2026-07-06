@@ -31,5 +31,5 @@ Full-stack developer focused on building scalable, secure, and production-ready 
 ## 📬 Contact  
 
 - Email: [srabonti.st03@gmail.com](mailto:srabonti.st03@gmail.com)  
-- LinkedIn: [linkedin.com/in/srabonti03](https://www.linkedin.com/in/srabonti03/)  
+- LinkedIn: [linkedin.com/in/srabonti-codes](https://www.linkedin.com/in/srabonti-codes/)  
 - Portfolio: [srabonti-codes.onrender.com](https://srabonti-codes.onrender.com/)
